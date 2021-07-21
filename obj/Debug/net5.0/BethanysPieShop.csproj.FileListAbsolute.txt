@@ -75,3 +75,4 @@ C:\Users\anil.pak\source\repos\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Shar
 C:\Users\anil.pak\source\repos\BethanysPieShop\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
 C:\Users\anil.pak\source\repos\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
 C:\Users\anil.pak\source\repos\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\anil.pak\source\repos\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs

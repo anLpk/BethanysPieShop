@@ -4,7 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using BethanysPieShop.Models;
 using BethanysPieShop.ViewModels;
-using BethanysPieShop.Views;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -22,7 +21,7 @@ namespace BethanysPieShop.Controllers
 
         public IActionResult Index()
         {
-            var homeViewModel = new ViewModels.HomeViewModel
+            var homeViewModel = new HomeViewModel
             {
                 PiesOfTheWeek = _pieRepository.PiesOfTheWeek
             };
